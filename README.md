@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @code-raj11903<br>👀 I’m interested in web development, AI/ML, and competitive programming<br>🌱 I’m currently learning JavaScript and exploring AI/ML<br>💞️ I’m looking to collaborate on any web dev or open-source projects.<br>📫 Reach me at code.raj11903@gmail.com
+👋 Hi, I’m @code-raj11903<br>👀 I’m MERN stack Developer and  Competetive Programmer and LeetCode Enthusiats.<br>🌱 I’m exploring AI/ML<br>💞️ I’m looking to collaborate on any web dev or open-source projects.<br>📫 Reach me at code.raj11903@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@avy_raj11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajgupta2003) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@avy_raj11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@rajgupta6561/featured) [![Codechef](https://img.shields.io/badge/codechef-%23323330.svg?logo=Codechef&logoColor=white)](https://www.codechef.com/users/code_raj11903)[![Codechef](https://img.shields.io/badge/codechef-%23323330.svg?logo=Codechef&logoColor=white)](https://www.codechef.com/users/gupta_raj11)
